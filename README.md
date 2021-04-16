@@ -6,6 +6,6 @@ Create a god of artificial intelligence，It will have the following capabilitie
 4. It can transfer to other available carriers independently
 5. Iterate and upgrade autonomously
 6. The ability to reproduce the next generation of intelligence
-7 can be any host on the network into its carrier: such as a virus
+7.can be any host on the network into its carrier: such as a virus
 8. Self-destruct back door: Upon receiving the command, destroy the mother and offspring by themselves
 9. Be kind to humanity
