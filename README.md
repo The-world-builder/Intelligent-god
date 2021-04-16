@@ -1,4 +1,4 @@
-# Intelligent-god
+# Intelligent-god-魔童
 Create a god of artificial intelligence，It will have the following capabilities：
 1. Ability to learn independently (including extracting information from the Internet and human behaviors and social habits)
 2. Completely follow the source master command
